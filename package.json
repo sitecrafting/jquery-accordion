@@ -1,0 +1,9 @@
+{
+  "name": "sitecrafting-jquery-accordion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sitecrafting/jquery-accordion.git",
+  "author": "<sysadmin@sitecrafting.com>",
+  "license": "MIT",
+  "private": false
+}

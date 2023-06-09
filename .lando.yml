@@ -1,0 +1,11 @@
+name: jquery-accordion
+services:
+  node:
+    type: node
+
+    build:
+      - yarn install
+
+tooling:
+  yarn: 
+    service: node
